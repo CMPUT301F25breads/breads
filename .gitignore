@@ -1,0 +1,8 @@
+#Ignore .idea folder
+.idea/
+#Ignore build folder
+build/
+#Ignore local.properties file (for Android Studio)
+local.properties
+#Ignore gradle files
+.gradle/
